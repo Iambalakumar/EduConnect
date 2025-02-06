@@ -1,4 +1,4 @@
-# EduConnect
+# EduConnect101
 ## Overview:
 EduConnect is a portal for students to connect with seniors & teachers & Mentors for their projects, placements & Academic tasks. This promotes peer collobration and motivation among students. 
 
